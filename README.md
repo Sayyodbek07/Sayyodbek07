@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Sayyodbek Togayev!</h1><h3 align="center">💻 Software Engineer | Back-End Developer</h3><p align="center">
+<h1 align="center">👋 Hi, I'm Sayyodbek Togayev!</h1><h3 align="center">💻 Back-End Developer</h3><p align="center">
   <b>I'm a Python Developer</b>
 </p><p align="center">
   I'm passionate about creating websites and Telegram bots.<br>
