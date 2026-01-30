@@ -1,51 +1,37 @@
-👋 Hi, I’m Sayyodbek Togayev
+👋 Hi, I'm Sayyodbek Togayev!
 
 💻 Software Engineer | Back-End Developer
 
-I’m passionate about building web applications and Telegram bots.
-Currently focused on sharpening my backend skills, writing clean code, and learning new technologies.
+I'm a Python Developer
 
-🛠 Tech Stack
-📌 Programming Languages
+I'm passionate about creating websites and Telegram bots. Currently, I'm focused on enhancing my skills and learning more.
 
-🐍 Python
 
-📌 Frameworks & Libraries
+---
 
-Django
+🛠️ Technical Proficiency
 
-🌐 Web Technologies
+📌 Programming Languages:
 
-HTML5
+ 
 
-CSS3
+📌 Frameworks and Libraries:
 
-Bootstrap
+ 
 
-💾 Databases
+🌐 Web Technologies:
 
-MySQL
+  
 
-PostgreSQL
+🗄️ Databases:
 
-🔧 Tools & Platforms
+ 
 
-Git
+⚙️ Tools and Platforms:
 
-Docker
+   
 
-Linux
 
-VS Code
+---
 
-📊 GitHub Stats
-
-💡 Most Used Languages
-
-🔥 GitHub Streak
-
-📫 Let’s Connect!
-
-📧 Email: stogayeva765@gmail.com
-
-💬 Telegram: @Sayyodbek
+✨ Always learning. Always building.
